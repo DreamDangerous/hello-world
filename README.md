@@ -1,5 +1,2 @@
 # hello-world
 第一个测试程序
-
-
-hi,github
